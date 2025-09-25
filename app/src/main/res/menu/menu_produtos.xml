@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/mFavorite"
+        android:icon="@drawable/baseline_star_"
+        android:title="Favorite"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/rEvert"
+        android:icon="@drawable/baseline_backspace_"
+        android:title="Send Feedback"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/baseline_settings_"
+        android:title="Setting"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="rEvert"
+        android:icon="@drawable/baseline_help_"
+        android:title="Help"
+        app:showAsAction="ifRoom" />
+
+
+</menu>
