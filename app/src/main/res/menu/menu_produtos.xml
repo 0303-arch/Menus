@@ -21,7 +21,7 @@
         app:showAsAction="ifRoom" />
 
     <item
-        android:id="rEvert"
+        android:id="@+id/Help"
         android:icon="@drawable/baseline_help_"
         android:title="Help"
         app:showAsAction="ifRoom" />

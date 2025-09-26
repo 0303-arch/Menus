@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main_item"
+        android:title="Mail">
+
+        <menu>
+            <item
+                android:id="@+id/inbox"
+                android:icon="@drawable/baseline_inbox_"
+                android:title="Inbox" />
+            <item
+                android:id="@+id/outbox"
+                android:icon="@drawable/baseline_outbox_"
+                android:title="Outbox" />
+            <item
+                android:id="@+id/fav"
+                android:icon="@drawable/baseline_star_"
+                android:title="Favorite" />
+            <item
+                android:id="@+id/trash"
+                android:icon="@drawable/baseline_delete_"
+                android:title="Trash" />
+
+
+        </menu>
+
+
+    </item>
+
+
+</menu>
+

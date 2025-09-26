@@ -1,35 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-    <item
-        android:id="@+id/aRQUIVo"
-        android:icon="@drawable/baseline_insert_drive_file_"
-        android:title="Arquivo"
-        app:showAsAction="ifRoom" />
-
-    <item
-        android:id="@+id/aLTERAR"
-        android:icon="@drawable/baseline_edit_"
-        android:title="Alterar"
-        app:showAsAction="ifRoom" />
-
-    <item
-        android:id="@+id/eXcluir"
-        android:icon="@drawable/baseline_delete_"
-        android:title="Delete"
-        app:showAsAction="ifRoom" />
-
-    <item
-        android:id="@+id/sAlVAR"
-        android:icon="@drawable/baseline_save_"
-        android:title="Salvar"
-        app:showAsAction="ifRoom" />
-
-    <item
-        android:id="@+id/sAIR"
-        android:icon="@drawable/baseline_exit_to_app_"
-        android:title="Sair"
-        app:showAsAction="ifRoom" />
 
 
 </menu>
